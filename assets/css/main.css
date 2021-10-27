@@ -1990,7 +1990,7 @@ input, select, textarea {
 		background-image: url("images/bg.png");
 		box-shadow: inset 0px 1px 0px 0px rgba(0, 0, 0, 0.05), inset 0px 2px 3px 0px rgba(0, 0, 0, 0.1);
 		padding: 8em 0 8em 0;
-		text-align: center;
+		text-align: left;
 	}
 
 		.wrapper.style1 {
@@ -2045,8 +2045,8 @@ input, select, textarea {
 		width: 100%;
 		z-index: 10000;
 		cursor: default;
-		height: 3.5em;
-		line-height: 3.5em;
+		height: 0;
+		line-height: 0;
 	}
 
 		#nav ul {

@@ -1,6 +1,6 @@
 # Welcome! 👋 
 
-I'm **Hane** and I'm glad you dropped by.<br>
+I'm **Sindu** and I'm glad you dropped by.<br>
 
 My main superpower is the **ability to empathize and understand the needs of my client/customer**. Using this, I identify their key problems and build solutions that can **bridge the gaps**.
 

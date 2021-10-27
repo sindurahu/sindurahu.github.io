@@ -1,11 +1,11 @@
 # Welcome! 👋 
 
-I'm **Hane** and I'm glad you dropped by.<br>
+I'm **Sindu** and I'm glad you dropped by.<br>
 
 My main superpower is the **ability to empathize and understand the needs of my client/customer**. Using this, I identify their key problems and build solutions that can **bridge the gaps**.
 
 I'm always opened to meeting new people, and learning new things. Let's connect!
-You can find my LinkedIn [here](https://www.linkedin.com/in/hanejun/).
+You can find my LinkedIn [here](https://www.linkedin.com/in/sindurahu/).
 
 ## Project Experience 💻 ##
 
